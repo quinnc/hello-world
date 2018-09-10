@@ -1,2 +1,3 @@
-Simple intro to github.
-Main branch.
+I am Quinn.
+
+I am like making little computers do fun stuff.
